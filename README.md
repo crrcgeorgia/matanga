@@ -1,5 +1,13 @@
 # Online markets for illicit drugs in Georgia
 
+## The report
+This document presents the findings of a six-month study into online markets for illicit drugs in Georgia. It examines Matanga, a cryptomarket platform that facilitates the anonymous sale of drugs in Georgia and countries of the CIS. It finds a diverse and active marketplace with 16 unique substances listed for sale in the country, generating nearly 1.6 million USD in revenue over a 194-day period. The study document consists of the following:
+
+- [Online Markets for Illicit Drugs in Georgia](https://crrc.ge/uploads/tinymce/documents/PolicyBriefs/Online%20Markets%20for%20Illicit%20Drugs%20in%20Georgia%20-%20Report%20-%20FINAL.pdf): The main report
+- [Annex 1: Methodological Annex](https://crrc.ge/uploads/tinymce/documents/PolicyBriefs/Online%20Markets%20for%20Illicit%20Drugs%20in%20Georgia%20-%20Annex%201%20-%20Methodological%20Annex.pdf): An overview of the study's methodology
+- [Annex 2: Per substance summary data](https://crrc.ge/uploads/tinymce/documents/PolicyBriefs/Online%20Markets%20for%20Illicit%20Drugs%20in%20Georgia%20-%20Annex%202%20-%20Substance%20Summary%20Data.pdf): Summarizing all substances found
+
+
 ## Replication code and source data
 
 This repository contains the source data and replication code for the report "Online markets for illicit drugs in Georgia". The repository consists of the following files and folders:
