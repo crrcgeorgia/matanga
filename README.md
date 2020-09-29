@@ -16,3 +16,17 @@ Source data for the study is also provided in the following folders:
 - [SCRAPED](https://github.com/crrcgeorgia/matanga/tree/master/DATA/INPUT/SCRAPED): Source data drawn from [scrape.py](https://github.com/crrcgeorgia/matanga/blob/master/scrape.py)
 - [LISTINGS](https://github.com/crrcgeorgia/matanga/tree/master/DATA/OUTPUT/LISTINGS/CSV): All listing data following consolidation and cleaning. Observed at listing per scrape.
 - [SALES](https://github.com/crrcgeorgia/matanga/tree/master/DATA/OUTPUT/SALES/CSV): All sales data following sales estimation. Observed at listing per day.
+
+## Bibtex
+
+```
+@misc{goodrich_online_2020,
+	address = {Tbilisi, Georgia},
+	title = {Online markets for illicit drugs in {Georgia}: replication code and source data},
+	url = {https://github.com/crrcgeorgia/matanga},
+	publisher = {CRRC Georgia},
+	author = {Goodrich, Ian},
+	month = sep,
+	year = {2020}
+}
+```
