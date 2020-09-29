@@ -14,5 +14,5 @@ This code is presented as was at the time of study completion and comes with no 
 Source data for the study is also provided in the following folders:
 
 - [SCRAPED](https://github.com/crrcgeorgia/matanga/tree/master/DATA/INPUT/SCRAPED): Source data drawn from [scrape.py](https://github.com/crrcgeorgia/matanga/blob/master/scrape.py)
-- [LISTINGS](https://github.com/crrcgeorgia/matanga/tree/master/DATA/INPUT/LISTINGS/CSV): All listing data following consolidation and cleaning. Observed at listing per scrape.
-- [SALES](https://github.com/crrcgeorgia/matanga/tree/master/DATA/INPUT/SALES/CSV): All sales data following sales estimation. Observed at listing per day.
+- [LISTINGS](https://github.com/crrcgeorgia/matanga/tree/master/DATA/OUTPUT/LISTINGS/CSV): All listing data following consolidation and cleaning. Observed at listing per scrape.
+- [SALES](https://github.com/crrcgeorgia/matanga/tree/master/DATA/OUTPUT/SALES/CSV): All sales data following sales estimation. Observed at listing per day.
